@@ -4,3 +4,7 @@
 [submodule "simplegui"]
 	path = simplegui
 	url = git@github.com:backuptools/backuptools-simplegui.git
+[submodule "command"]
+	path = command
+	url = git@github.com:backuptools/backuptools-command.git
+
